@@ -1,0 +1,24 @@
+﻿{
+  {
+    "Id": 0,
+    "Nom": "Oui Exact",
+    "Email": "ouiExact@mail.com",
+    "Adresse": "42 rue de la moulaga",
+    "Telephone": "0622222222",
+    "Referent": "Non Padutou",
+    "Rib": "22222222222",
+    "Siret": "9393939393",
+    "Type_Client": "Gentil"
+  },
+  {
+    "Id": 1,
+    "Nom": "Oui Exact",
+    "Email": "ouiExact@mail.com",
+    "Adresse": "42 rue de la moulaga",
+    "Telephone": "0622222222",
+    "Referent": "Non Padutou",
+    "Rib": "22222222222",
+    "Siret": "9393939393",  
+    "Type_Client": "Gentil"
+  }
+}
